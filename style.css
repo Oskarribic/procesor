@@ -75,7 +75,7 @@ footer {
 
 
 
-/* To je za majhne zaslone/telefone. nevem se kako deluje ampak bom nastudiru */
+/* To je za majhne zaslone/telefone. */
 @media only screen and (max-width: 768px) {
     nav.menu a {
         width: 100%; 
@@ -103,7 +103,7 @@ footer {
     }
 }
 
-
+/* razoj tabela */
 .table-razvoj {
     width: 30%;
     border-collapse: collapse;
